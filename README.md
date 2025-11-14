@@ -26,7 +26,7 @@ Perfect for practicing responsive layouts, UI styling, HTML/CSS positioning, and
 ⚙️ Features
 🎥 Cinematic Background
 
-Fullscreen HD background image with proper scaling
+Fullscreen HD background image
 
 Fixed attachment + centered layout
 
